@@ -5,9 +5,11 @@
 
 
 ## 工程目录结构
+
  *  - .vscode/ //自带配置文件夹
- *      -launch.json //vscode 配置文件
- *  - app.js //使用koa的js，入口文件
- *  - package.json //项目描述文件
- *  - node_modules/  //npm 安装的所有依赖包
+        -launch.json //vscode 配置文件
+    - app.js //使用koa的js，入口文件
+    - package.json //项目描述文件
+    - node_modules/  //npm 安装的所有依赖包
+    *
 
